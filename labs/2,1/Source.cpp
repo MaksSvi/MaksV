@@ -3,8 +3,8 @@
 
 int main()
 {
-    //Завдання 1
-    std::cout << "Завдання 1" << std::endl;
+    //task 1
+    std::cout << "task 1" << std::endl;
     float FloatArray1[8];
     for (int i = 0; i < sizeof(FloatArray1) / sizeof(FloatArray1[0]); i++)
     {
@@ -44,8 +44,8 @@ int main()
         }
     }
     std::cout << std::endl;
-    //Завдання 2
-    std::cout << "Завдання 2" << std::endl;
+    //task 2
+    std::cout << "task 2" << std::endl;
     int IntArray1[10];
     int IntArray2[10];
     int IntArray3[10];
@@ -78,8 +78,8 @@ int main()
             MinOfArray3 = IntArray3[i];
     }
     std::cout << MinOfArray3 << std::endl;
-    //Завдання 3
-    std::cout << "Завдання 3" << std::endl;
+    //task 3
+    std::cout << "task 3" << std::endl;
     float FloatArray2[5][4] =
     {
       {5.5, 21.1, -9.3, -16.4},
