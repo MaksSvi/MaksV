@@ -20,6 +20,6 @@ int main() {
 //g++ -c StringLibrary.cpp -o StringLibrary.o
 //ar rcs libStringLibrary.a StringLibrary.o
 
-// /g++ main.cpp -L. -lStringLibrary -o main
+//g++ main.cpp -L. -lStringLibrary -o main
 
 //./main
