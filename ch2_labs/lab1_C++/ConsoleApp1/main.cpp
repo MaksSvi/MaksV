@@ -30,4 +30,5 @@ int main() {
 }
 
 //g++ -Wall -Wextra -g3 main.cpp MyString.cpp -o output/main.exe
+
 //output/main.exe
