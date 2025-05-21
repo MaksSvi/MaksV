@@ -21,3 +21,5 @@ int main() {
 
     return 0;
 }
+//g++ main.cpp -I../FigureLibrary -L../FigureLibrary -lfigure -o console_app
+//./console_app
